@@ -5,6 +5,7 @@
   font-weight: normal;
   font-size: 50px;
   text-align: center;
+  color: white;
 }
 
 #copyright{
@@ -21,7 +22,7 @@
 }
 
 #images,
-#videos{
+#video{
   text-align: center;
 }
 
@@ -31,3 +32,29 @@
   color: gray;
   text-align: center;
 }
+
+body{
+  background-color: black;
+}
+
+#secondhead{
+  font-family: verdana;
+  color: white
+  text-align: center;
+}
+
+#bottom{
+  color: white;
+  text-align: center;
+  font-weight: 300;
+  font-size: 42px;
+  font-family: verdana;
+}
+
+#link{
+  text-align: center;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#video{}
